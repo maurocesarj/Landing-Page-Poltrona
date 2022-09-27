@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}   
+html
+{   
+    font-family: 'Rajdhani', sans-serif;
+    border:none;
+}
+
+body
+{
+
+    position: relative;
+    background: #435158;
+}
+
+ul li {
+    display: inline;  
+}
+
+ul li a
+{  
+    text-transform: uppercase;
+    text-decoration: none;  
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 24px;
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 210px;
+    color: #ffffff;
+}
+
+#textoesquerda h1
+{   
+    margin-top: 250px;
+    margin-left: 216px;
+
+    font-weight: 100;
+    font-size: 50px;
+    line-height: 30px;
+    color: #ffffff;
+}
+
+#textoesquerda h2
+{   
+    margin-left: 216px;
+
+    margin-top: 30px;
+    font-weight: 100;
+    font-size: 35px;
+    line-height: 0px;
+    color: #ffffff;
+}
+
+#textoesquerda p
+{   
+    margin-left: 216px;
+    margin-top: 60px;
+
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 19px;
+    color: #ffffff;
+}
+#valor
+{ 
+    margin-left: 216px;
+
+    margin-top: 65px;
+    font-weight: 100;
+    font-size: 70px;
+    line-height: 30px;
+    color: #ffffff;
+}
+button
+{   
+    letter-spacing: .4rem;
+    cursor: pointer;
+    margin-left: 216px;
+    border: none;
+    width: 230px;
+    height: 75px;
+
+    margin-top: 40px;
+    font-weight: 50;
+    font-size: 18px;
+    background: #48565E;
+    color: #ffffff;
+}
+
+#quadrado
+{   
+    display: flex;
+    float: right;
+    position: relative;
+    width: 699px;
+    height: 100vh;
+    
+    background: #325364;
+}
+
+#img
+{   
+    display: flex;
+    position: relative;
+    width: 650px;
+    height: 650px;
+    float: right;
+    margin-top: 100px;
+    padding: 0;
+}
